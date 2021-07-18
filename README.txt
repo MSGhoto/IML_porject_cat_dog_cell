@@ -1,0 +1,5 @@
+-Image are readed and saved in picale file, so once picale file is created there is no need to run 2nd cell's code
+-only around 6000(2000 for each) data is used from orginal data povided b/c of computer capabilties
+-SVM-classifier is used 
+-accurasy score around 70%
+-In last cell's code if image is given model will predict if it is pic of cat,dog or cell
